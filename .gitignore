@@ -1,0 +1,8 @@
+.env
+node_modules/
+build/
+dist/
+.vscode/settings.json
+.idea/workspace.xml
+logs/error.log
+tmp/cache.tmp
